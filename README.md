@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi 👋, I'm Jason Lee
 
-<!--
-**Jasonlee1995/Jasonlee1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- stats and blog links -->
 
-Here are some ideas to get you started:
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jasonlee1995&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![CV](http://img.shields.io/badge/CV%20website-black?style=flat-square&logo=github&link=https://jasonlee1995.github.io/)](https://jasonlee1995.github.io/) [![Velog](https://img.shields.io/badge/tech%20blog-20C997?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@jasonlee1995)
+
+
+<!-- introduction -->
+
+### Computer Vision Researcher
+- currently looking for a job now!
+
+
+### Research Interest
+- learning general representation like human
+- understanding neural network and overcoming its weakness
