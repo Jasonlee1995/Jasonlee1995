@@ -9,8 +9,8 @@
 
 <!-- introduction -->
 
-### Computer Vision Researcher
-- currently looking for a job now!
+### AI Researcher
+- research on speaker diarization at [ActionPower](https://actionpower.kr/)
 
 
 ### Research Interest
