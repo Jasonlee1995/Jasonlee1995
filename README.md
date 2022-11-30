@@ -10,9 +10,9 @@
 <!-- introduction -->
 
 ### AI Researcher
-- research on speaker diarization at [ActionPower](https://actionpower.kr/)
+- research on vision, nlp, speech at [ActionPower](https://actionpower.kr/)
 
 
-### Research Interest
-- learning general representation like human
-- understanding neural network and overcoming its weakness
+### Notice
+- `AI Papers Review` repo was converted public to private recently
+  - I'll notice and pin if repo become to public again!
