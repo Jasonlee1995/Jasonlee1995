@@ -15,4 +15,4 @@
 
 ### Notice
 - `AI Papers Review` repo was converted public to private recently
-  - I'll notice and pin if repo become to public again!
+  - I'll notice and pin if repo becomes public again!
