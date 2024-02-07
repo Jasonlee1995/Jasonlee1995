@@ -13,7 +13,7 @@
 - currently focusing on...
   - datasets and benchmarks (e.g. filtering, cleansing, pruning, fairness, ...)
   - code-switching automatic speech recognition (CS-ASR)
-  - understanding deep learning via example difficulty
+  - understanding deep learning (e.g. inductive bias, example difficulty, ...)
 
 
 ### Notice
