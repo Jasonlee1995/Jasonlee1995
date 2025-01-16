@@ -8,13 +8,8 @@
 <!-- introduction -->
 
 ### Current Status
-- working as full-time AI researcher at [ActionPower](https://actionpower.kr/)
-- currently focusing on...
-  - datasets and benchmarks (e.g. filtering, cleansing, pruning, fairness, ...)
-  - code-switching automatic speech recognition (CS-ASR)
-  - understanding deep learning (e.g. inductive bias, example difficulty, ...)
+- Doing Ph.D under professor Seon Joo Kim at [CIPLAB](https://www.ciplab.kr/)
 
 
 ### Notice
-- `AI Papers Review` repo was converted public to private recently
-  - I'll notice and pin if repo becomes public again!
+- Since I'm using other GitHub account, repository from this account is no longer maintained
