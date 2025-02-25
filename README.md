@@ -12,4 +12,10 @@
 
 
 ### Notice
-- Since I'm using other GitHub account, repository from this account is no longer maintained
+
+This GitHub account is linked to my student email.  
+However, as I graduated, my student email will be deactivated.  
+Thus, **current repositories are no longer maintained**.
+
+I make a new GitHub account, and any future updates or contributions will be made there.  
+You can find my new GitHub account here: [New GitHub Account](https://github.com/jasonleex1995)
